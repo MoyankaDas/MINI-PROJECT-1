@@ -1,0 +1,36 @@
+body{
+    display:flex;
+    justify-content: center;
+    background-color: aqua;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+}
+ul{
+    background-color: #fff;
+    border:2px solid red;
+    font-weight: 600;
+    border-radius: 0.4rem ;
+}
+div{
+    width:14rem;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(238, 208, 13);
+    font-weight: 800;
+    border-radius: 0.4rem;
+    border:2px solid black;
+    font-size:1rem;
+}
+input{
+    border:2px solid black;
+    margin-bottom: 0.8rem;
+   
+}
+.delete{
+    background-color: black;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left:1.3rem;
+}
